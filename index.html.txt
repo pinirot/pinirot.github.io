@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="he">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>פיני רוט - ניהול ופיקוח פרויקטים בבניה</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f9;
+            color: #333;
+        }
+        header {
+            background-color: #4caf50;
+            color: white;
+            text-align: center;
+            padding: 1em 0;
+        }
+        section {
+            margin: 2em auto;
+            max-width: 800px;
+            padding: 1em;
+            background-color: white;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1, h2 {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            color: #2e7d32;
+        }
+        p {
+            line-height: 1.6;
+        }
+        .contact {
+            text-align: center;
+        }
+        .contact a {
+            color: #4caf50;
+            text-decoration: none;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>פיני רוט</h1>
+        <p>ניהול ופיקוח פרויקטים בבניה</p>
+    </header>
+    <section>
+        <h2>אודותיי</h2>
+        <p>שלום וברכה, קוראים לי פיני רוט ואני מתעסק בניהול ופיקוח פרויקטים בבניה. אני מאמין שאני יכול ליצור קסם ולסדר לאנשים את הפרטים הקטנים בפרויקט שלהם כך שארגיש שהם בידיים טובות כשהפרויקט אצלם.</p>
+    </section>
+    <section>
+        <h2>הערך המוסף שלי</h2>
+        <p>כמנהל ומפקח פרויקטים בבניה, אני מביא ערך מוסף רב ללקוחותיי. עם ניסיון עשיר ויכולת לתאם ולנהל כל פרט קטן בפר
